@@ -1,5 +1,5 @@
 .container{
-    background-image:url(images/mosque.avif) ;
+    background-image:url(images/employee.webp) ;
     background-size: 100% auto;
     background-position: top center;
     background-repeat: no-repeat;
@@ -42,4 +42,36 @@
 }
 .small-div{
     display: flex;
+}
+.p1{
+    background-image: url(images/employee2.webp);
+    width: 200px;
+    height: 150px;
+}
+.p2{
+    background-image: url(images/employee3.webp);
+    width: 200px;
+    height: 150px;
+}
+.p3{
+    background-image: url(images/employee.webp);
+    width: 200px;
+    height: 150px;
+}
+.p4{
+    background-image: url(images/employee4.webp);
+    width: 200px;
+    height: 210px;
+}
+.large-div{
+    display: flex;
+    margin-top: 500px;
+    gap: 20px;
+}
+.staff{
+    display: flex;
+    /* gap: 20px; */
+}
+.large-div .small-div{
+display: flex;
 }
