@@ -1,0 +1,45 @@
+.container{
+    background-image:url(images/mosque.avif) ;
+    background-size: 100% auto;
+    background-position: top center;
+    background-repeat: no-repeat;
+    height:400px;
+}
+.big-div{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    margin-top: 400px;
+}
+.div1 img{
+    width:300px;
+    height:250px;
+}
+.div2 img{
+    width:300px;
+    height:250px;
+}
+.div3 img{
+    width:300px;
+    height:250px;
+}
+.container h1{
+    background-color:aqua;
+    color: white;
+    font-size: 20px;
+    margin: 15px 40px;
+    margin-top: 200px; 
+}
+.nav{
+    display: flex;
+    list-style: none;
+    gap: 200px;
+    margin: 50px;
+}
+.nav a{
+    text-decoration: none;
+    color: blue
+}
+.small-div{
+    display: flex;
+}
