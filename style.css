@@ -87,11 +87,11 @@ background: lightblue;
 /* STAFF SERVICES SECTION */
 
 .staff-services{
-padding: 40px;
-background: blue;
+padding: 10px;
+background: rgb(0, 217, 255);
 }
 .staff-title{
-    text-align; cenyer;
+    text-align: center;
     color: purple;
     font-size: 32px;
 margin-bottom: 30px;
