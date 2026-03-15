@@ -124,3 +124,53 @@ gap: 15px;
     font-size: 14px;
     text-shadow: 1px 1px 4px black;
 }
+/* SERVICES DETAILS */
+
+.services-details{
+    display:flex;
+    gap:30px;
+    padding:40px;
+    background:white;
+}
+
+.services-image{
+    flex:1;
+}
+
+.services-image img{
+    width:100%;
+    border-radius:5px;
+}
+
+.services-text{
+    flex:2;
+}
+
+.services-text ol{
+    padding-left:20px;
+}
+
+.services-text li{
+    margin-bottom:20px;
+}
+
+.services-text p{
+    margin-top:5px;
+    line-height:1.5;
+}
+
+.invite{
+    margin-top:20px;
+    font-weight:normal;
+}
+
+
+/* FOOTER */
+
+footer{
+    background:#2f4a63;
+    color:white;
+    text-align:center;
+    padding:15px;
+    font-size:14px;
+}
